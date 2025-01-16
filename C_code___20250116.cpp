@@ -3,7 +3,7 @@
 #include <typeinfo>
 using namespace std;		// std : 표준 라이브러리
 
-#define MAIN0116
+//#define MAIN0116
 #ifdef MAIN0116
 
 
@@ -12,6 +12,8 @@ int main()
 	std::cout << "메인 _ 20250116" << std::endl;
 	std::cout << "=============================\n\n" << std::endl;
 
+
+	/*
 	//실습16. 배열 사용해서 소수 구하기
 	int arr_int[10] = { 1,2,3,4,5,6,7,8,9,10 };
 	int sum = 0;
@@ -30,7 +32,6 @@ int main()
 		}
 	}
 
-	/*
 	//실습16. 배열 사용해서 소수 구하기   ㅡ 리더님 코드  ????
 	int arr_i[10] = { 1,2,3,4,5,6,7,8,9,10 };
 	cout << arr_i[1] << endl;
