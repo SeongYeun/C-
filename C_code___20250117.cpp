@@ -3,8 +3,8 @@
 #include <typeinfo>
 using namespace std;		// std : 표준 라이브러리
 
-//#define MAIN0116
-#ifdef MAIN0116
+//#define MAIN0117
+#ifdef MAIN0117
 
 struct Car {
 	string name;
@@ -25,7 +25,7 @@ int main()
 {
 
 
-	std::cout << "메인 _ 20250116" << std::endl;
+	std::cout << "메인 _ 20250117" << std::endl;
 	std::cout << "=============================\n\n" << std::endl;
 	// const를 앞에 붙여주면 val은 변수지만 이후 코드에서 상수로 인식하게하는 명령어임
 	// float 형을 지정했지 떄문에 초기값 0에 소수점(.0)을 입력하지 않아도 됨
