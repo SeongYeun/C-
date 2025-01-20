@@ -3,7 +3,7 @@
 #include <typeinfo>
 using namespace std;
 
-#define MAIN0120
+//#define MAIN0120
 #ifdef MAIN0120
 
 // 센서값 함수  _ sensor_cal
@@ -261,6 +261,8 @@ public:
 		cout << "총 가격 : "<< price*qty<< endl;
 	}
 };
+
+// 종합실습7. 붕어빵 만들기  ㅡ 리더님 코드
 
 
 
