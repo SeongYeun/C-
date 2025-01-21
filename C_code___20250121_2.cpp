@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#define MAIN0121
+//#define MAIN0121
 #ifdef MAIN0121
 
 // 종합실습8. 게임 캐릭터 생성하기 (main 밖)
