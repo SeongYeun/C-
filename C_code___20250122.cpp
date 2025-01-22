@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#define MAIN0122
+//#define MAIN0122
 #ifdef MAIN0122
 // 실습27. 포인터 사용해보기
 
