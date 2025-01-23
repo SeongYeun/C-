@@ -237,7 +237,7 @@ char* glue(const char* str1, const char* str2) {
 
 
 
-#define M_0125
+//#define M_0125
 #ifdef M_0125
 int main() {
 	/*
